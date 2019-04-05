@@ -10,7 +10,7 @@
 
 ## 教材
 
-+ **[第1回   フーリエ変換とフレーム処理](https://github.com/YosukeSugiura/B4-StudyGroup/blob/master/%231)**  
++ **[第1回   フーリエ変換とフレーム処理](https://github.com/YosukeSugiura/B4-StudyGroup/blob/master/%231.md)**  
 	+ FFT, IFFT, フィルタリング，フレーム処理，SS法  
 + **第2回   時間・空間領域信号処理**   
 	+ 最小二乗法，適応信号処理，畳み込みニューラルネットワーク  
