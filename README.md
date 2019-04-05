@@ -12,7 +12,7 @@
 
 + **[第1回   フーリエ変換とフレーム処理](https://github.com/YosukeSugiura/B4-StudyGroup/blob/master/%231.md)**  
 	+ FFT, IFFT, フィルタリング，フレーム処理，SS法  
-+ **第2回   時間・空間領域信号処理**   
++ **[第2回   時間・空間領域信号処理](https://github.com/YosukeSugiura/B4-StudyGroup/blob/master/%232.md)**   
 	+ 最小二乗法，適応信号処理，畳み込みニューラルネットワーク  
 + **第3回** 
 + **第4回**
